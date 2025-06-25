@@ -21,6 +21,9 @@ effectively. This paper uses advanced methods to study urban climate
 processes which builds understanding for climate-resistant planning so-
 lutions that protect the environment as cities grow in response to climate
 change changes.
+
+
+
 ![Screenshot 2025-04-28 211006](https://github.com/user-attachments/assets/525dda06-71fa-424a-acd2-909198aaed08)
 ![Screenshot 2025-04-28 210627](https://github.com/user-attachments/assets/99bb737d-a88d-47ef-866f-5ba5eb2ba2ba)
 
