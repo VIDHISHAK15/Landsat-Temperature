@@ -8,7 +8,7 @@ in local climate patterns which result in urban heat island development.
 LST functions as a vital measurement tool to check urban transformation
 and test different strategies which attempt to reduce heat impacts. This
 research makes efficient use of United States Geological Survey satellite
-data as well as Google Earth Engine capabilities to process vast geospa-
+data as well as Google Earth Engine capabilities to process vast geospa
 tial dataset information. The analysis depth becomes stronger through
 the application of machine learning and advanced data processing meth-
 ods that run under Google Colab. The presented study displays compre-
