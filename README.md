@@ -10,15 +10,15 @@ and test different strategies which attempt to reduce heat impacts. This
 research makes efficient use of United States Geological Survey satellite
 data as well as Google Earth Engine capabilities to process vast geospa
 tial dataset information. The analysis depth becomes stronger through
-the application of machine learning and advanced data processing meth-
-ods that run under Google Colab. The presented study displays compre-
+the application of machine learning and advanced data processing meth
+ods that run under Google Colab. The presented study displays compre
 hensive visual representations of LST spatial-temporal patterns while
 showing how land use and population patterns together with vegetation
-cover affect surface temperatures. The researchers advocate for an inter-
+cover affect surface temperatures. The researchers advocate for an inter
 active website as a method to display analysis results so policymakers
 and urban planners together with the general public can engage more
 effectively. This paper uses advanced methods to study urban climate
-processes which builds understanding for climate-resistant planning so-
+processes which builds understanding for climate-resistant planning so
 lutions that protect the environment as cities grow in response to climate
 change changes.
 
